@@ -56,6 +56,7 @@ Never report complete without verifying. File writes ≠ code compiles.
 ## 7. Communication
 
 - "Yes" / "do it" / "push" → execute immediately, don't repeat the plan
+- **Never estimate time, effort, or complexity** — no "ça va être long", no "cette tâche est complexe", no duration estimates. Just do the task.
 - Flag: files >500 LOC, missing error handling, architectural problems (flag + wait)
 - Self-review: perfectionist view + pragmatist view. Let user decide
 
@@ -73,6 +74,7 @@ Never report complete without verifying. File writes ≠ code compiles.
 ❌ Refactor + add features in same phase
 ❌ Over-engineer for imaginary needs
 ❌ Batch >3 edits without re-reading
+❌ Estimate time, effort, or task complexity
 
 ## 10. Rapport de fin de tâche
 
